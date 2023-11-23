@@ -1,11 +1,18 @@
 # DeskBg
 This is a command-line utility that automates the process of changing your desktop background with captivating images inspired by the vast Unsplash gallery.
 
+## User Features:
+
+- [x] User can update bg image downloaded from internet
+- [x] User can update bg image using Unsplush API
+- [x] Runs on UNIX machine
+- [ ] Runs on Windows machine
+
 
 
 ## KeyFeatures:
 
-* Multiplatform support - deskbg currently runs on linux machines (tested on xubuntu os) and windows (tested on windows10)
+* Multiplatform support - deskbg currently runs on unix machines (tested on xubuntu os) and windows (tested on windows10)
 
 * Command-Line Integration: Effortlessly manage and customize your desktop backgroud directly from the command line
 
