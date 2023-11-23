@@ -4,7 +4,7 @@ This is a command-line utility that automates the process of changing your deskt
 ## User Features:
 
 - [x] User can update bg image downloaded from internet
-- [x] User can update bg image using Unsplush API
+- [ ] User can update bg image using Unsplush API
 - [x] Runs on UNIX machine
 - [ ] Runs on Windows machine
 
